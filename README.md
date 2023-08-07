@@ -17,9 +17,4 @@ Welcome to MLExpress! This repository provides hands-on examples and tutorials f
 11. [Recommender Systems with Neural Networks](https://github.com/annaalexandragrigoryan/MLExpress/blob/main/RecSysNN.ipynb)
 12. [Deep Q Learning](https://github.com/annaalexandragrigoryan/MLExpress/blob/main/Deep_Q_Learning.ipynb)
 
-## Introduction
-
-🌐 MLExpress is designed to guide you through various machine learning concepts and techniques. Whether you're new to machine learning or looking to expand your skills, you'll find practical examples and explanations here.
-
-
 
