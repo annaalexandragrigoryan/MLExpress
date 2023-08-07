@@ -13,8 +13,6 @@ Welcome to MLExpress! This repository provides hands-on examples and tutorials f
 7. [Anomaly Detection](https://github.com/annaalexandragrigoryan/MLExpress/blob/20dd8287c95bd07e4b66f1989bbfee98dacf511b/Anomaly_Detection.ipynb)
 8. [Advanced ML](https://github.com/annaalexandragrigoryan/MLExpress/blob/20dd8287c95bd07e4b66f1989bbfee98dacf511b/AppliedML.ipynb)
 9. [K Means Clustering](https://github.com/annaalexandragrigoryan/MLExpress/blob/20dd8287c95bd07e4b66f1989bbfee98dacf511b/KMeansClustering.ipynb)
-10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Introduction
 
