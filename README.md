@@ -1,6 +1,6 @@
 # MLExpress: 🚀 Machine Learning Exploration and Practice
 
-Welcome to MLExpress! This repository provides hands-on examples and tutorials for building various machine learning models using popular libraries such as NumPy, scikit-learn, TensorFlow, and more. Whether you're a 🌟 beginner looking to dive into the world of machine learning or an 🏆 experienced practitioner seeking practical implementations, MLExpress has something for you.
+Welcome to MLExpress! This repository provides hands-on examples and tutorials for building various machine learning models using popular libraries such as NumPy, scikit-learn, TensorFlow, and more. 
 
 ## Table of Contents
 
