@@ -13,6 +13,9 @@ Welcome to MLExpress! This repository provides hands-on examples and tutorials f
 7. [Anomaly Detection](https://github.com/annaalexandragrigoryan/MLExpress/blob/20dd8287c95bd07e4b66f1989bbfee98dacf511b/Anomaly_Detection.ipynb)
 8. [Advanced ML](https://github.com/annaalexandragrigoryan/MLExpress/blob/20dd8287c95bd07e4b66f1989bbfee98dacf511b/AppliedML.ipynb)
 9. [K Means Clustering](https://github.com/annaalexandragrigoryan/MLExpress/blob/20dd8287c95bd07e4b66f1989bbfee98dacf511b/KMeansClustering.ipynb)
+10. [Colaborative Filtering for Recommender System](https://github.com/annaalexandragrigoryan/MLExpress/blob/main/Collaborative_Filtering_Rec_Sys.ipynb)
+11. [Recommender Systems with Neural Networks](https://github.com/annaalexandragrigoryan/MLExpress/blob/main/RecSysNN.ipynb)
+12. [Deep Q Learning](https://github.com/annaalexandragrigoryan/MLExpress/blob/main/Deep_Q_Learning.ipynb)
 
 ## Introduction
 
