@@ -20,10 +20,5 @@ Welcome to MLExpress! This repository provides hands-on examples and tutorials f
 
 🌐 MLExpress is designed to guide you through various machine learning concepts and techniques. Whether you're new to machine learning or looking to expand your skills, you'll find practical examples and explanations here.
 
-## Getting Started
 
-To get started, make sure you have Python and the required libraries installed. You can install the dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
 
